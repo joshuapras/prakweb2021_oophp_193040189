@@ -1,4 +1,13 @@
 <?php
+/*
+Joshua Praisyatama
+193040189
+https://github.com/joshuapras/prakweb2021_oophp_193040189
+Pertemuan 3 -  Januari 2022
+Membuat Class dan Object
+*/
+?>
+<?php
 
 //  class ContohStatic {
 //    public static $angka = 1;
